@@ -1,0 +1,27 @@
+{
+  "name": "prismon",
+  "version": "0.1.0",
+  "description": "A tool to automate the monitor price of a specific product",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyuplam/prismon.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "crawling",
+    "price",
+    "monitor",
+    "analysis"
+  ],
+  "author": "Terrence Lam <skyuplam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyuplam/prismon/issues"
+  },
+  "homepage": "https://github.com/skyuplam/prismon#readme"
+}
