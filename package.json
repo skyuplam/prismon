@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/skyuplam/prismon/issues"
   },
-  "homepage": "https://github.com/skyuplam/prismon#readme"
+  "homepage": "https://github.com/skyuplam/prismon#readme",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  }
 }
